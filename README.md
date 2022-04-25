@@ -2,6 +2,8 @@
 
 Basis kode, ide, dan Sebagian kode dari [https://github.com/arduino-libraries/LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal)
 
+    Note : hanya digunakan untuk lcd 16x2 atau 20x4 dengan 5x8 dots
+
 ## Library ini digunakan untuk rangkaian sebagai berikut
 
 ![Gambar Rangkaian](/docs/gambar_rangkaian.png)

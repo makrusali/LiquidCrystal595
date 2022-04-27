@@ -2,7 +2,7 @@
 
 Basis kode, ide, dan Sebagian kode dari [https://github.com/arduino-libraries/LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal)
 
-    Note : hanya digunakan untuk lcd 16x2 atau 20x4 dengan 5x8 dots
+    Note : hanya digunakan untuk lcd 16x2 atau 20x4 dengan 5x8 dots 
 
 ## Library ini digunakan untuk rangkaian sebagai berikut
 
@@ -29,7 +29,7 @@ Basis kode, ide, dan Sebagian kode dari [https://github.com/arduino-libraries/Li
       //cetak "Halo Dunia!"
       lcd.print("Halo Dunia!");
       
-      //arahkan cursor pada posisi kolom=0 - baris=1
+      //arahkan cursor pada posisi kolom=4 - baris=1
       lcd.setCursor(4,1);
       //cetak "INDONESIA"
       lcd.print("INDONESIA");

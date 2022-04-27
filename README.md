@@ -24,12 +24,12 @@ Basis kode, ide, dan Sebagian kode dari [https://github.com/arduino-libraries/Li
       //nyalakan backlight
       lcd.backlight();
       
-      //arahkan cursor pada posisi kolom=3 - baris=0
+      //arahkan cursor pada posisi index kolom=3 - baris=0
       lcd.setCursor(3,0);
       //cetak "Halo Dunia!"
       lcd.print("Halo Dunia!");
       
-      //arahkan cursor pada posisi kolom=4 - baris=1
+      //arahkan cursor pada posisi index kolom=4 - baris=1
       lcd.setCursor(4,1);
       //cetak "INDONESIA"
       lcd.print("INDONESIA");
